@@ -1,0 +1,6 @@
+.agents
+*.docx
+*.pdf
+*.jpeg
+.DS_Store
+dist

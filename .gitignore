@@ -1,0 +1,8 @@
+.vercel/
+dist/
+.DS_Store
+fangys_registration_document.jpeg
+VISION GLOBAL FANGYS.CO.HK.docx
+maquette/SOURCES-IMAGES.md
+.vercel
+.env*
